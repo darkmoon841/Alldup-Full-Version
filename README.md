@@ -238,4 +238,4 @@ This repository serves as the official landing page for AllDup. The software is 
 **Get the most recent version of AllDup today!**
 
 ---
-**Last updated:** 2026-09-20 00:53:23 UTC
+**Last updated:** 2026-09-20 05:56:29 UTC
